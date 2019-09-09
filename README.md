@@ -1,4 +1,4 @@
-# SmartBrain - v2
+# SmartEye
 Final project for Udemy course
 
 1. Clone this repo
