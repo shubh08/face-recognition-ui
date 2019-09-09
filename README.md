@@ -1,5 +1,5 @@
 # SmartEye
-Final project for Udemy course
+Ui files for the smart-eye project
 
 1. Clone this repo
 2. Run `npm install`
